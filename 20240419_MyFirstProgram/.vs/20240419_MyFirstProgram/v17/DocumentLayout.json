@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\Project\\20240419_MyFirstProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA1DD21-AA6D-49C4-81CE-3972EDBC0001}|20240419_MyFirstProgram\\20240419_MyFirstProgram.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\20240419_MyFirstProgram\\20240419_MyFirstProgram\\prac1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FA1DD21-AA6D-49C4-81CE-3972EDBC0001}|20240419_MyFirstProgram\\20240419_MyFirstProgram.vcxproj|solutionrelative:20240419_MyFirstProgram\\prac1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prac1.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\20240419_MyFirstProgram\\20240419_MyFirstProgram\\prac1.cpp",
+              "RelativeDocumentMoniker": "20240419_MyFirstProgram\\prac1.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\20240419_MyFirstProgram\\20240419_MyFirstProgram\\prac1.cpp",
+              "RelativeToolTip": "20240419_MyFirstProgram\\prac1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T05:37:04.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
