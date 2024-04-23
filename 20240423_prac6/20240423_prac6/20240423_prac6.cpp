@@ -1,4 +1,4 @@
-// 20240423_prac6.cpp : This file contains the 'main' function. Program execution begins and ends there.
+ï»¿// 20240423_prac6.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "5´Ü Ãâ·Â\n";
+	cout << "5ë‹¨ ì¶œë ¥\n";
 
 	for (int i = 0; i < 9; i++)
 	{
@@ -15,11 +15,11 @@ int main()
 	}
 	cout << "\n";
 	
-	cout << "1~9´Ü Ãâ·Â\n";
+	cout << "1~9ë‹¨ ì¶œë ¥\n";
 	for (int i = 0; i < 9; i++)
 	{	
 		cout << "\n";
-		cout << "----" << i + 1 << "´Ü----" << endl ;
+		cout << "----" << i + 1 << "ë‹¨----" << endl ;
 		for (int j = 0; j < 9; j++)
 		{
 			cout << (i+1) << " * " << (j + 1) << " = " << (i+1) * (j + 1) << endl;
