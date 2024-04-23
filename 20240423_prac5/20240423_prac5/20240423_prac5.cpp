@@ -12,14 +12,7 @@ int main()
     int num;
     cin >> num;
 
-    if (num % 5 == 0)
-    {
-        cout << num << "는 5의 배수입니다.";
-    }
-
-    else
-    {
-        cout << num << "는 5의 배수가 아니네요ㅜㅜ";
-    }
+    cout << num << ((num % 5 == 0) ? "는 5의 배수입니다." : "는 5의 배수가 아니네요 ㅜㅜ");
+    
 }
 
