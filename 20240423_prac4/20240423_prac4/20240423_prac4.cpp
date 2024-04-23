@@ -7,8 +7,8 @@ using namespace std;
 
 int main()
 {
-    int num1;
-    int num2;
+    double num1;
+    double num2;
     int mode;
 
     cout << "두 개의 변수를 입력하세요.\n";
