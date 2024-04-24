@@ -46,6 +46,16 @@ int main()
 	double result;
 
 	cin >> num1 >> num2;
+
+	result = add(num1, num2);
+	cout << "µ¡¼À °á°ú : " << result << endl;
+
+	result = sub(num1, num2);
+	cout << "»¬¼À °á°ú : " << result << endl;
+
+	result = mul(num1, num2);
+	cout << "°ö¼À °á°ú : " << result << endl;
+
 	result = divide(num1, num2);
-	cout << result;
+	cout << "³ª´°¼À °á°ú : " << result << endl;
 }
