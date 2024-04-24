@@ -22,11 +22,19 @@ void main()
 
 	string input2;
 	cin >> input2;
+	bool isError = true;
+
 	for (int i = 0; i < arraySize; i++)
 	{
 		if (input2 == city[i])
 		{
+			isError = false;
 			cout << "나라 이름 : " << city[i] << "\n" << "인덱스 : " << i << endl;
 		}
+	}
+
+	if (isError == true)
+	{
+		cout << "error" << endl;
 	}
 }
