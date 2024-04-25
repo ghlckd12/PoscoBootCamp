@@ -29,4 +29,5 @@ void main()
 	}
 
 	cout << "¼ºÀû Æò±Õ : " << result_sum / double(numStudent);
+	delete[] studentArr;
 }
