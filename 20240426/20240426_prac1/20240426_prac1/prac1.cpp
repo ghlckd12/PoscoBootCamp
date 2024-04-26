@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 
+/*
 void main()
 {
 	// 1. 사용자로부터 x, y 2개의 자연수 입력
@@ -57,3 +58,4 @@ void main()
 	}
 	
 }
+*/
