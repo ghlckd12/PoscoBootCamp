@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+/*
 void main()
 {
 	// 1. 행과 열의 수 입력
@@ -57,3 +57,4 @@ void main()
 	delete[] arr;
 
 }
+*/
