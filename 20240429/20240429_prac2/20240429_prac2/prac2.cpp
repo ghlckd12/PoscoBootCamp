@@ -2,7 +2,7 @@
 #include <vector>
 #include<algorithm>
 using namespace std;
-
+/*
 void main()
 {
 	vector<int> myVector = { 10, 20, 30, 20, 40, 10, 50 };
@@ -20,3 +20,4 @@ void main()
 		cout << *itr << "\t";
 	}
 }
+*/
