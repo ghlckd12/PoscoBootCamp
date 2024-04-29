@@ -46,12 +46,13 @@ void main()
 
 	// 5. 가장 뒤에 요소 6, 7 추가
 	cout << "가장 뒤에 요소 6,7 추가 결과" << endl;
-	myList.push_back(6);
-	myList.push_back(7);
+	list<int> myList1 = { 6, 7 };
+	myList.splice(myList.end(), myList1);
 	printList(myList);
 
 	// 6. 가장 앞에 요소 0 추가
 	cout << "가장 앞에 요소 0 추가 결과" << endl;
-	myList.push_front(0);
+	list<int> myList2 = { 0 };
+	myList.splice(myList.begin(), myList2);
 	printList(myList);
 }
