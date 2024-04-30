@@ -21,8 +21,6 @@ void main()
 	int numStr;
 	int loopCnt = 0;
 	bool isInt = false;
-	
-	
 
 	cout << "몇 개의 문자열을 입력할지 입력해주세요 : " << endl;
 	cin >> numStr;
@@ -52,13 +50,13 @@ void main()
 
 	cout << connectedStr << endl;
 
-	// 3. 앞에서 입력 받은 두숫자의 합을 출력
+	// 3. 앞에서 입력 받은 숫자의 합을 출력
 	int sumStr = 0;
 	for (int i = 0; i < numStr; i++)
 	{
 		sumStr += stoi(strArr[i]);
 	}
-	cout << "숫자로 된 두 문자열의 합을 출력" << endl;	
+	cout << "숫자로 된 문자열의 합을 출력" << endl;	
 	cout << sumStr;
 
 	delete[] strArr;
