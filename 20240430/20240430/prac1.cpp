@@ -10,11 +10,12 @@ void main()
 	cout << s.length() << endl;
 
 	// 3. 100번째 문자 출력
-	cout << s[100] << endl;
+	cout << s[99] << endl;
 
 	// 4. "two" 문자열이 처음 나오는 index 출력
 	cout << s.find("two") << endl;
 
 	// 5. "two" 문자열이 두 번째로 나오는 index 출력
 	cout << s.find("two", s.find("two")+1);
+
 }
