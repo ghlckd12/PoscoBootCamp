@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240503\file_split\file_split\main.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MyFunc.cpp
+  Generating Code...
+  file_split.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240503\file_split\x64\Debug\file_split.exe
