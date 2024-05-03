@@ -5,6 +5,8 @@
 #include "MyFunc.h"
 
 using namespace std;
+using namespace printingData;
+using namespace inputData;
 
 void main()
 {
