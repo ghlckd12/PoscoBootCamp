@@ -1,3 +1,4 @@
 ﻿  prac3.cpp
-C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\practice\prac3.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\practice\prac3.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\practice\prac3.cpp(76,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
   practice.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\x64\Debug\practice.exe

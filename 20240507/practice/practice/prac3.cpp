@@ -64,17 +64,19 @@ void main()
 		cout << "이름을 입력하세요 : ";
 		cin >> name;
 
-		if (find(vName.begin(), vName.end(), name) == vName.end())
+		auto iter = find(vName.begin(), vName.end(), name);
+		if (iter == vName.end())
 		{
 			cout << "이름이 존재하지 않습니다. 다시 입력해주세요!" << endl;
 			continue;
 		}
-
+		
 		else
 		{
+			int idIdx = iter - vName.begin();
 			cout << "암호를 입력하세요 : ";
 			cin >> password;
-			if (find(vPassword.begin(), vPassword.end(), password) == vPassword.end())
+			if (vPassword[idIdx] != password)
 			{
 				cout << "이름 혹은 암호가 일치하지 않습니다. 다시 입력해주세요!" << endl;
 				continue;
