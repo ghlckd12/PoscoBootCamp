@@ -18,12 +18,16 @@ void main()
 
 	cout << "3명의 회원에 대한 이름과 비밀번호를 공백으로 구분하여 입력해주세요." << endl;
 	
-	for (int i = 0; i < NUM; i++)
+	int cnt = 0;
+
+	while((cnt!=NUM))
 	{
-		cout << i + 1 << "번째 회원  :  ";
+		cout << cnt + 1 << "번째 회원  :  ";
 		cin >> name >> password;
+
 		qName.push(name);
 		qPassword.push(password);
+		cnt++;
 	}
 
 	// 쓸 파일 오픈 체크
