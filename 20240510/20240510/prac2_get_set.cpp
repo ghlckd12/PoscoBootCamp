@@ -35,12 +35,14 @@ void main()
 	float width, height;
 	Rectangle rect(1, 2);
 
+	cout << "넓이는 : " << rect.CalculateArea() << endl;
+
 	cout << "사각형의 가로와 세로 길이를 입력해주세요. (띄어쓰기로 구분) ";
 	cin >> width >> height;
 
 	rect.setWidth(width);
 	rect.setHeight(height);
 
-	cout << "넓이는 : " << rect.getWidth() * rect.getHeight() << endl;
+	cout << "넓이는 : " << rect.CalculateArea() << endl;
 	cout << "가로 세로 길이는 : " << rect.getWidth() << " " << rect.getHeight();
 }
