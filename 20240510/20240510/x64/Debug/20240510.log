@@ -1,0 +1,3 @@
+﻿  prac1_using_class.cpp
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240510\20240510\prac1_using_class.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  20240510.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240510\x64\Debug\20240510.exe
