@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac2_get_set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\prac2_get_set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac1_using_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\prac1_using_class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac1-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\prac1-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "prac2_get_set.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac2_get_set.cpp",
+              "RelativeDocumentMoniker": "20240510\\prac2_get_set.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac2_get_set.cpp",
+              "RelativeToolTip": "20240510\\prac2_get_set.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T08:24:19.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prac1-1.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac1-1.cpp",
+              "RelativeDocumentMoniker": "20240510\\prac1-1.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac1-1.cpp",
+              "RelativeToolTip": "20240510\\prac1-1.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T08:23:46.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "prac1_using_class.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac1_using_class.cpp",
               "RelativeDocumentMoniker": "20240510\\prac1_using_class.cpp",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac1_using_class.cpp",
               "RelativeToolTip": "20240510\\prac1_using_class.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAiwCMAAAAMAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwCIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-10T06:33:41.802Z",
               "EditorCaption": ""
