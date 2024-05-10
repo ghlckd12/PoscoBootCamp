@@ -24,11 +24,27 @@ private:
 
 void main()
 {
+	//실습 1 부분
 	float width, height;
 	cout << "사각형의 가로와 세로 길이를 입력해주세요. (띄어쓰기로 구분) ";
 	cin >> width >> height;
 
 	Rectangle R(width, height);
 
-	cout << "넓이는 : " << R.CalculateArea();
+	cout << "넓이는 : " << R.CalculateArea() << endl;
+
+	//실습 1-1 부분
+	//복사 생성자 이용
+	Rectangle R_copy1(R);
+
+	cout << "복사한 넓이는 : " << R_copy1.CalculateArea() << endl;
+
+	//할당 이용
+	Rectangle R2(30, 50);
+	Rectangle R_copy2 = R2;
+
+	cout << "가로 30, 세로 50으로 할당한 넓이는 : " << R_copy2.CalculateArea() << endl;
+
+
+
 }
