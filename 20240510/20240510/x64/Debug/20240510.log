@@ -1,3 +1,6 @@
-﻿  prac3_game.cpp
+﻿  Monster.cpp
+  prac3_game.cpp
 C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240510\20240510\prac3_game.cpp(15,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240510\20240510\prac3_game.cpp(19,6): warning C4101: 'optionMonster': unreferenced local variable
+  Generating Code...
   20240510.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240510\x64\Debug\20240510.exe

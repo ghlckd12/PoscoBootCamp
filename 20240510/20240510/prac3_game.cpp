@@ -14,12 +14,14 @@ using namespace std;
 void main()
 {
 	string name;
-	int level, itemNum;
+	int level, itemNum, abilityPoint;
 	int option;
+	int optionMonster;
+	string optionAbility;
 
 	cout << "Welcome!!! Please Input Character Name" << endl;
 	cin >> name;
-	Character CharacterInfo(name, 0, 0);
+	Character CharacterInfo(name);
 
 	cout << " --------------------------------------SELECT OPTION------------------------------------------" << endl;
 	cout << " | (1) Change Name  (2) Level UP  (3) Get Item  (4) Use Item  (5) Show Character Information |" << endl;
@@ -27,13 +29,33 @@ void main()
 
 	while (true)
 	{
-		cout << "Option Number(Quit : 0) : ";
+		cout << "Option Number(Quit : 0, Fight : -1) : ";
 		cin >> option;
 		if (option == 0)
 		{
 			cout << "Bye Bye";
 			break;
 		}
+
+		
+		if (option == -1)
+		{
+			cout << "Select Monster Rank" << endl;
+			cout << "(1)  0 ~ 10  (2)  11 ~ 30  (3)  31 ~ 50  (4)  51 ~ 100  (5)  101 ~ 300" << endl;
+			cin >> optionMonster;
+			cout << "Let's Fight!!" << endl;
+			cout << "Sorry Not Implemented Yet,,,," << endl;
+			/*
+			switch (optionMonster)
+			{
+			case 1:
+
+			default:
+				break;
+			}
+			*/
+		}
+		
 
 		switch (option)
 		{
@@ -47,12 +69,36 @@ void main()
 			break;
 
 		case 2:
-			cout << "!!!Level UP!!!!" << endl;
+			cout << "!!!Level and Ability Point UP!!!!" << endl;
 			level = CharacterInfo.getLevel();
 			level++;
 			CharacterInfo.setLevel(level);
 			cout << "Your Level Is " << CharacterInfo.getLevel() << endl;
 			cout << " ---------------------------------------------------------------------------------------------" << endl;
+
+			abilityPoint = CharacterInfo.getAbilityPoint();
+			abilityPoint++;
+			CharacterInfo.setAbilityPoint(abilityPoint);
+			cout << "Do You Want to Use Ability Point? 'O' or 'X' : ";
+
+			cin >> optionAbility;
+			if (optionAbility == "O")
+			{
+				int loopCnt = 0;
+				while (abilityPoint - loopCnt)
+				{
+					loopCnt++;
+					CharacterInfo.UseAbilityPoint();
+				}
+
+			}
+
+			else
+			{
+				cout << "Should Press 'O' or 'X'" << endl;
+				break;
+			}
+
 			break;
 
 		case 3:
@@ -69,7 +115,7 @@ void main()
 			itemNum = CharacterInfo.getItemNum();
 			if (itemNum <= 0)
 			{
-				cout << "Sorry,,, Your Must Have Item, Your Number of Item Is " << itemNum << endl;
+				cout << "Sorry,,, You Must Have Item, Your Number of Item Is " << itemNum << endl;
 				cout << " ---------------------------------------------------------------------------------------------" << endl;
 				break;
 			}
@@ -84,20 +130,11 @@ void main()
 			}
 
 		case 5:
-			cout << "Show Character Information!" << endl;
-			name = CharacterInfo.getName();
-			level = CharacterInfo.getLevel();
-			itemNum = CharacterInfo.getItemNum();
-
-			cout << "Name : " << name << endl;
-			cout << "Level : " << level << endl;
-			cout << "Number of Item : " << itemNum << endl;
-			cout << " ---------------------------------------------------------------------------------------------" << endl;
+			CharacterInfo.ShowCharacterInfo();
 			break;
 
 		default:
 			break;
 		}
 	}
-	
 }
