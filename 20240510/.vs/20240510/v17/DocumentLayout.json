@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\prac3_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\CharacterManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\CharacterManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\CharacterManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\CharacterManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027FCA35-1D7B-437B-A84C-BB020BB72C23}|20240510\\20240510.vcxproj|solutionrelative:20240510\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Monster.h",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\Monster.h",
               "RelativeDocumentMoniker": "20240510\\Monster.h",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "20240510\\Monster.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-14T07:54:47.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T07:54:47.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\Monster.cpp",
               "RelativeDocumentMoniker": "20240510\\Monster.cpp",
@@ -55,18 +54,17 @@
               "RelativeToolTip": "20240510\\Monster.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-14T07:54:38.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T07:54:38.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CharacterManager.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\CharacterManager.cpp",
               "RelativeDocumentMoniker": "20240510\\CharacterManager.cpp",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\CharacterManager.cpp",
               "RelativeToolTip": "20240510\\CharacterManager.cpp",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwFMAAAAFAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-10T11:01:42.503Z",
               "EditorCaption": ""
@@ -79,20 +77,20 @@
               "RelativeDocumentMoniker": "20240510\\prac3_game.cpp",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\prac3_game.cpp",
               "RelativeToolTip": "20240510\\prac3_game.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD4AAABAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEkAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-10T09:00:23.686Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CharacterManager.h",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\CharacterManager.h",
               "RelativeDocumentMoniker": "20240510\\CharacterManager.h",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240510\\20240510\\CharacterManager.h",
               "RelativeToolTip": "20240510\\CharacterManager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-10T11:01:16.55Z",
               "EditorCaption": ""

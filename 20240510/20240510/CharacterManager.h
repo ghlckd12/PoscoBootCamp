@@ -10,7 +10,7 @@ using namespace std;
 class Character
 {
 public:
-	Character(string name) { m_name = name; m_level = 0; m_itemNum = 0; m_abilityPoint = 0; m_health = 0; m_defense = 0; m_attack = 0; m_intelligence = 0; m_lucky = 0; }
+	Character(string name) { m_name = name; m_level = 1; m_itemNum = 0; m_abilityPoint = 1; m_health = 100; m_defense = 10; m_attack = 10; m_intelligence = 10; m_lucky = 10; }
 	~Character() {}
 
 	void UseAbilityPoint();
