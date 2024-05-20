@@ -1,10 +1,4 @@
-﻿//
-// 240516, john
-// Ŭ���� ��ȭ PPT, �ǽ�2 ������
-// 
-
-
-#include <iostream>
+﻿#include <iostream>
 #include <string>
 
 
