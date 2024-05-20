@@ -65,13 +65,14 @@ int main()
 
 	while (option)
 	{
-		cout << endl << "과자 바구니에 추가할 간식을 고르시오.( 1: 사탕, 2: 초콜릿, 0: 종료) : ";
+		cout << "과자 바구니에 추가할 간식을 고르시오.( 1: 사탕, 2: 초콜릿, 0: 종료) : ";
 		cin >> option;
 
 		switch (option)
 		{
 		case 0:
-			cout << endl << "과자 바구니에 담긴 간식의 개수는 " << SnackBucket::snackCount << "개 입니다." << endl;
+			cout << "\n";
+			cout << "과자 바구니에 담긴 간식의 개수는 " << SnackBucket::snackCount << "개 입니다." << endl;
 			cout << "과자 바구니에 담긴 간식 확인하기!" << endl;
 
 			for (auto snack : snackBucket)
