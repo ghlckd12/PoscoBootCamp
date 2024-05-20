@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7622F2D-31AE-46F4-AEFF-D7B278EC38FF}|20240520\\20240520.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7622F2D-31AE-46F4-AEFF-D7B278EC38FF}|20240520\\20240520.vcxproj|solutionrelative:20240520\\prac3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7622F2D-31AE-46F4-AEFF-D7B278EC38FF}|20240520\\20240520.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B7622F2D-31AE-46F4-AEFF-D7B278EC38FF}|20240520\\20240520.vcxproj|solutionrelative:20240520\\prac2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "prac3.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac3.cpp",
+              "RelativeDocumentMoniker": "20240520\\prac3.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac3.cpp",
+              "RelativeToolTip": "20240520\\prac3.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:01:30.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "prac2.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac2.cpp",
               "RelativeDocumentMoniker": "20240520\\prac2.cpp",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac2.cpp",
               "RelativeToolTip": "20240520\\prac2.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAAVAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-20T07:48:59.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "prac1.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\prac1.cpp",
               "RelativeDocumentMoniker": "20240520\\prac1.cpp",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "20240520\\prac1.cpp",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-20T06:09:53.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T06:09:53.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "reference.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\20240520\\20240520\\reference.cpp",
               "RelativeDocumentMoniker": "20240520\\reference.cpp",
