@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Computer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|solutionrelative:Project3\\User.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|solutionrelative:Project3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|solutionrelative:Project3\\Computer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{04B06161-16BE-4913-BA26-86F8A1A72E93}|Project3\\Project3.vcxproj|solutionrelative:Project3\\User.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{41E78778-9C7E-42FF-A4A1-8EDA72183684}|Project4\\Project4.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41E78778-9C7E-42FF-A4A1-8EDA72183684}|Project4\\Project4.vcxproj|solutionrelative:Project4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.h",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\User.h",
-              "RelativeDocumentMoniker": "Project3\\User.h",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\User.h",
-              "RelativeToolTip": "Project3\\User.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-30T08:09:44.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cpp",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\User.cpp",
-              "RelativeDocumentMoniker": "Project3\\User.cpp",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\User.cpp",
-              "RelativeToolTip": "Project3\\User.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T08:09:36.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Computer.h",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\Computer.h",
-              "RelativeDocumentMoniker": "Project3\\Computer.h",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\Computer.h",
-              "RelativeToolTip": "Project3\\Computer.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-30T07:56:34.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Computer.cpp",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\Computer.cpp",
-              "RelativeDocumentMoniker": "Project3\\Computer.cpp",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\Computer.cpp",
-              "RelativeToolTip": "Project3\\Computer.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T07:56:26.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\main.cpp",
-              "RelativeDocumentMoniker": "Project3\\main.cpp",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project3\\main.cpp",
-              "RelativeToolTip": "Project3\\main.cpp",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCEAAAAVAAAA",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project4\\main.cpp",
+              "RelativeDocumentMoniker": "Project4\\main.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project4\\main.cpp",
+              "RelativeToolTip": "Project4\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T07:49:15.637Z",
+              "WhenOpened": "2024-05-30T08:43:19.512Z",
               "EditorCaption": ""
             }
           ]
