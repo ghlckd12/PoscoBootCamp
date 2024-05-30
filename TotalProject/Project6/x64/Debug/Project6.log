@@ -1,2 +1,6 @@
-﻿  main.cpp
+﻿  Calculator.cpp
+  main.cpp
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\TotalProject\Project6\main.cpp(24,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\TotalProject\Project6\main.cpp(34,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
   Project6.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\TotalProject\x64\Debug\Project6.exe

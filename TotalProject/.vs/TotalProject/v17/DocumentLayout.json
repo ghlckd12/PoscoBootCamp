@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E78778-9C7E-42FF-A4A1-8EDA72183684}|Project4\\Project4.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{41E78778-9C7E-42FF-A4A1-8EDA72183684}|Project4\\Project4.vcxproj|solutionrelative:Project4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1ED17503-6C47-489D-AEDD-047BA4FC058D}|Project6\\Project6.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ED17503-6C47-489D-AEDD-047BA4FC058D}|Project6\\Project6.vcxproj|solutionrelative:Project6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED17503-6C47-489D-AEDD-047BA4FC058D}|Project6\\Project6.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ED17503-6C47-489D-AEDD-047BA4FC058D}|Project6\\Project6.vcxproj|solutionrelative:Project6\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED17503-6C47-489D-AEDD-047BA4FC058D}|Project6\\Project6.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1ED17503-6C47-489D-AEDD-047BA4FC058D}|Project6\\Project6.vcxproj|solutionrelative:Project6\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.h",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\Calculator.h",
+              "RelativeDocumentMoniker": "Project6\\Calculator.h",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\Calculator.h",
+              "RelativeToolTip": "Project6\\Calculator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-30T09:07:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\Calculator.cpp",
+              "RelativeDocumentMoniker": "Project6\\Calculator.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\Calculator.cpp",
+              "RelativeToolTip": "Project6\\Calculator.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T09:07:13.739Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project4\\main.cpp",
-              "RelativeDocumentMoniker": "Project4\\main.cpp",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project4\\main.cpp",
-              "RelativeToolTip": "Project4\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\main.cpp",
+              "RelativeDocumentMoniker": "Project6\\main.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\TotalProject\\Project6\\main.cpp",
+              "RelativeToolTip": "Project6\\main.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-30T08:43:19.512Z",
+              "WhenOpened": "2024-05-30T09:00:24.757Z",
               "EditorCaption": ""
             }
           ]
