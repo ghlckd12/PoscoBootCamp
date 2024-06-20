@@ -1,4 +1,0 @@
-﻿  prac1.cpp
-C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240503\rand\rand\prac1.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240503\rand\rand\prac1.cpp(9,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  rand.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240503\rand\x64\Debug\rand.exe

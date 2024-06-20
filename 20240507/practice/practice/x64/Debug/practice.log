@@ -1,5 +1,0 @@
-﻿  prac3.cpp
-C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\practice\prac3.cpp(117,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\practice\prac3.cpp(207,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\practice\prac3.cpp(319,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-  practice.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\20240507\practice\x64\Debug\practice.exe
