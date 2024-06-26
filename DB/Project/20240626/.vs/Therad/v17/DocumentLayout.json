@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Therad\\BankAccount.h",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h",
               "RelativeToolTip": "Therad\\BankAccount.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-26T07:57:51.667Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Therad\\BankAccount.cpp",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.cpp",
               "RelativeToolTip": "Therad\\BankAccount.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-26T07:57:46.316Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Therad\\main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-26T06:34:07.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T06:34:07.873Z"
             }
           ]
         }

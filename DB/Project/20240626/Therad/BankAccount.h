@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
-#include <mutex>
+//#include <mutex>
+#include <atomic>
 
 class BankAccount
 {
@@ -11,5 +12,6 @@ public:
 
 private:
 	int m_balance;
-	std::mutex mtx;
+	//std::mutex mtx;
+	std::atomic<int> counter;
 };
