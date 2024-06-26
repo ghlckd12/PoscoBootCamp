@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BankAccount.h",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h",
               "RelativeDocumentMoniker": "Therad\\BankAccount.h",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h",
               "RelativeToolTip": "Therad\\BankAccount.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-26T07:57:51.667Z",
               "EditorCaption": ""
@@ -56,15 +56,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\main.cpp",
               "RelativeDocumentMoniker": "Therad\\main.cpp",
               "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\main.cpp",
               "RelativeToolTip": "Therad\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-26T06:34:07.873Z"
+              "WhenOpened": "2024-06-26T06:34:07.873Z",
+              "EditorCaption": ""
             }
           ]
         }

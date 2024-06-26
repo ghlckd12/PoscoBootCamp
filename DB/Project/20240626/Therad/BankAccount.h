@@ -11,7 +11,6 @@ public:
 	void withdraw(int amount); //√‚±›
 
 private:
-	int m_balance;
 	//std::mutex mtx;
-	std::atomic<int> counter;
+	std::atomic<int> m_balance;
 };
