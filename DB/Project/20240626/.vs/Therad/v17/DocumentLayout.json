@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\",
+  "WorkspaceRootPath": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\BankAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\BankAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF1D510E-3351-4885-A8EE-E29B25C2B4F0}|Therad\\Therad.vcxproj|solutionrelative:Therad\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,37 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BankAccount.h",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\BankAccount.h",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h",
               "RelativeDocumentMoniker": "Therad\\BankAccount.h",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\BankAccount.h",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.h",
               "RelativeToolTip": "Therad\\BankAccount.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-26T07:57:51.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BankAccount.cpp",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\BankAccount.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.cpp",
               "RelativeDocumentMoniker": "Therad\\BankAccount.cpp",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\BankAccount.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\BankAccount.cpp",
               "RelativeToolTip": "Therad\\BankAccount.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-26T07:57:46.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\main.cpp",
+              "DocumentMoniker": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\main.cpp",
               "RelativeDocumentMoniker": "Therad\\main.cpp",
-              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\TeamProject\\Solution\\CardGamePack\\Therad\\Therad\\main.cpp",
+              "ToolTip": "C:\\PrivateFile\\PoscoBootCamp\\Project\\GitConflict\\DB\\Project\\20240626\\Therad\\main.cpp",
               "RelativeToolTip": "Therad\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-26T06:34:07.873Z",
               "EditorCaption": ""

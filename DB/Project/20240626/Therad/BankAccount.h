@@ -1,5 +1,6 @@
 #pragma once
 #include <iostream>
+#include <mutex>
 
 class BankAccount
 {
@@ -10,4 +11,5 @@ public:
 
 private:
 	int m_balance;
+	std::mutex mtx;
 };

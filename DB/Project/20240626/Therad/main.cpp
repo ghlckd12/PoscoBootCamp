@@ -1,19 +1,14 @@
 #include <iostream>
 #include <thread>
 #include <vector>
-#include <mutex>
 
 #include "BankAccount.h"
-
-std::mutex mtx;
 
 void thread_deposit(BankAccount& BA, int cnt)
 {
 	for (int i = 0; i < cnt; i++)
 	{
-		mtx.lock();
 		BA.deposit(100);
-		mtx.unlock();
 	}
 }
 
@@ -21,9 +16,7 @@ void thread_withdraw(BankAccount& BA, int cnt)
 {
 	for (int i = 0; i < cnt; i++)
 	{
-		mtx.lock();
 		BA.withdraw(100);
-		mtx.unlock();
 	}
 }
 
