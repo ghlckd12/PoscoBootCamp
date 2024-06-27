@@ -1,2 +1,2 @@
-﻿  main.cpp
-  20240627.vcxproj -> C:\PrivateFile\PoscoBootCamp\Project\GitConflict\DB\Project\20240627\x64\Debug\20240627.exe
+﻿  main2.cpp
+C:\PrivateFile\PoscoBootCamp\Project\GitConflict\DB\Project\20240627\20240627\main2.cpp(4,10): error C1083: Cannot open include file: 'mysql_connection.h': No such file or directory
